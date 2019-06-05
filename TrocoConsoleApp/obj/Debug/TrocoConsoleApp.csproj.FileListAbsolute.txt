@@ -1,0 +1,7 @@
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\bin\Debug\TrocoConsoleApp.exe.config
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\bin\Debug\TrocoConsoleApp.exe
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\bin\Debug\TrocoConsoleApp.pdb
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\obj\Debug\TrocoConsoleApp.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\obj\Debug\TrocoConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\obj\Debug\TrocoConsoleApp.exe
+C:\Users\danie\source\repos\TrocoConsoleApp\TrocoConsoleApp\obj\Debug\TrocoConsoleApp.pdb
